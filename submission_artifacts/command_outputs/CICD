@@ -1,0 +1,30 @@
+Run gh workflow view
+
+Workflow run summary
+
+✓ xrwvm-fullstack_developer_capstone / CI
+Triggered via push on main
+
+JOBS
+✓ Lint Python in 22s
+  ✓ Set up job
+  ✓ Checkout
+  ✓ Set up Python
+  ✓ Install Python dependencies
+  ✓ Run Django checks
+  ✓ Run Django migrations
+  ✓ Run Django tests
+  ✓ Complete job
+
+✓ Lint JavaScript in 48s
+  ✓ Set up job
+  ✓ Checkout
+  ✓ Set up Node.js
+  ✓ Install frontend dependencies
+  ✓ Install API dependencies
+  ✓ Run frontend tests
+  ✓ Build frontend
+  ✓ Complete job
+
+STATUS
+✓ Workflow completed successfully
